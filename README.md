@@ -7,7 +7,7 @@
 + For evaluation only, please set the option **only_evaluate** to **True** in the corresponding configuration file. 
 
 ## Figs
-
+![BKTNet](fig.jpg)
 
 ## Datasets
 iSAID:
